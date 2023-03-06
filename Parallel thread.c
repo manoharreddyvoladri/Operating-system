@@ -78,7 +78,7 @@ void reg()
 }
 int main()
 {
-    printf("Dhanush Sriram G - 21BRS1177\n\n");
+    printf("Manohar Reddy - 21BRS1177\n\n");
     pthread_t p1,p2,p3;
     pthread_create(&p1,NULL,fact,NULL);
     pthread_join(p1,NULL);
